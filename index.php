@@ -164,16 +164,16 @@ require "header.php"
                     <!--Service Area Start-->
                     <div class="tab-content" id="myTabContent">
                         <div class="tab-pane fade active show" id="spa" role="tabpanel">
-                            <img decoding="async" src="./images/services/service1.webp" alt="">
+                            <img decoding="async" src="" alt="">
                         </div>
                         <div class="tab-pane fade" id="restaurent" role="tabpanel">
-                            <img decoding="async" src="./images/services/service2.webp" alt="">
+                            <img decoding="async" src="" alt="">
                         </div>
                         <div class="tab-pane fade" id="swimming" role="tabpanel">
-                            <img decoding="async" src="images/services/service3.webp" alt="">
+                            <img decoding="async" src="" alt="">
                         </div>
                         <div class="tab-pane fade" id="conference" role="tabpanel">
-                            <img decoding="async" src="./images/services/service6.webp" alt="">
+                            <img decoding="async" src="" alt="">
                         </div>
                     </div>
                     <!--Service Area End-->
@@ -185,7 +185,7 @@ require "header.php"
                             <li>
                                 <a data-bs-toggle="tab" href="#spa" class="active">
                                     <span class="service-icon">
-                                        <img decoding="async" src="./images/services/service-icon1.webp" alt="">
+                                        <img decoding="async" src="" alt="">
                                     </span>
                                     <h5>Spa, beauty & Health</h5>
                                     <p><span>Spa and beauty </span>luptatem quia voluptas sit aspernatur aut odit aut
@@ -195,7 +195,7 @@ require "header.php"
                             <li>
                                 <a data-bs-toggle="tab" href="#restaurent">
                                     <span class="service-icon">
-                                        <img decoding="async" src="./images/services/service-icon2.webp" alt="">
+                                        <img decoding="async" src="" alt="">
                                     </span>
                                     <h5>Restaurant</h5>
                                     <p><span>Restaurant</span> lup provide grro tatem quia voluptas sit aspernatur aut
@@ -205,7 +205,7 @@ require "header.php"
                             <li>
                                 <a data-bs-toggle="tab" href="#swimming">
                                     <span class="service-icon">
-                                        <img decoding="async" src="./images/services/service-icon3.webp" alt="">
+                                        <img decoding="async" src="" alt="">
                                     </span>
                                     <h5>Swimming Pool</h5>
                                     <p><span>Swimming</span> pool luptatem quia voluptas sit aspernatur aut odit aut
@@ -215,7 +215,7 @@ require "header.php"
                             <li>
                                 <a data-bs-toggle="tab" href="#conference">
                                     <span class="service-icon">
-                                        <img decoding="async" src="./images/services/service-icon4.webp" alt="">
+                                        <img decoding="async" src="" alt="">
                                     </span>
                                     <h5>Conference Hall</h5>
                                     <p><span>Conference</span> luptatem quia voluptas sit aspernatur aut odit aut fugit,
@@ -261,120 +261,6 @@ require "header.php"
     </section>
     <!-- Services section Exit -->
 
-    <!-- Team section -->
-    <section id="team" class="team_wrapper">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12 section-title text-center mb-5">
-                    <h6>What I can do for you</h6>
-                    <h3>Our Special Staff</h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 col-md-6 mb-4">
-                    <div class="card p-0 rounded-3">
-                        <img decoding="async" src="images/team/team1.webp" class="img-fluid rounded-3" />
-                        <div class="team-info">
-                            <h5>Shirley Gibson</h5>
-                            <p>Manager</p>
-                            <ul class="social-network">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                <li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mb-4">
-                    <div class="card p-0 rounded-3">
-                        <img decoding="async" src="images/team/team2.webp" class="img-fluid rounded-3" />
-                        <div class="team-info">
-                            <h5>Ronald Long</h5>
-                            <p>Chif Reciption Officer</p>
-                            <ul class="social-network">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                <li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mb-4">
-                    <div class="card p-0 rounded-3">
-                        <img decoding="async" src="images/team/team3.webp" class="img-fluid rounded-3" />
-                        <div class="team-info">
-                            <h5>Ashley Sanchez</h5>
-                            <p>Master Chef</p>
-                            <ul class="social-network">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                <li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mb-4">
-                    <div class="card p-0 rounded-3">
-                        <img decoding="async" src="images/team/team4.webp" class="img-fluid rounded-3" />
-                        <div class="team-info">
-                            <h5>Jessica Watson</h5>
-                            <p>Housekeeping</p>
-                            <ul class="social-network">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                <li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Team Section Exit  -->
-
-    <!-- Gallery section -->
-    <section id="gallery" class="gallery_wrapper">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12 section-title text-center mb-5">
-                    <h6>Best Pictures Of Our Hotel</h6>
-                    <h3>Our Gallery</h3>
-                </div>
-            </div>
-            <div class="row g-0">
-                <div class="col-lg-3 col-md-6 gallery-item">
-                    <img decoding="async" src="./images/gallery/1.webp" class="img-fluid w-100">
-                    <div class="gallery-item-content"></div>
-                </div>
-                <div class="col-lg-3 col-md-6 gallery-item">
-                    <img decoding="async" src="./images/gallery/2.webp" class="img-fluid w-100">
-                    <div class="gallery-item-content"></div>
-                </div>
-                <div class="col-lg-3 col-md-6 gallery-item">
-                    <img decoding="async" src="./images/gallery/3.webp" class="img-fluid w-100">
-                    <div class="gallery-item-content"></div>
-                </div>
-                <div class="col-lg-3 col-md-6 gallery-item">
-                    <img decoding="async" src="./images/gallery/4.webp" class="img-fluid w-100">
-                    <div class="gallery-item-content"></div>
-                </div>
-                <div class="col-md-6 gallery-item">
-                    <img decoding="async" src="./images/gallery/5.webp" class="img-fluid w-100">
-                    <div class="gallery-item-content"> </div>
-                </div>
-                <div class="col-md-6 gallery-item">
-                    <img decoding="async" src="./images/gallery/6.webp" class="img-fluid w-100">
-                    <div class="gallery-item-content"> </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Gallery Section Exit -->
-
     <!-- Pricing section -->
     <section id="price" class="price_wrapper">
         <div class="container">
@@ -390,16 +276,7 @@ require "header.php"
                         <h5 class="text-decoration-underline mb-4">Economic</h5>
                         <ul class="list-unstyled">
                             <li>
-                                <p>Flight Ticket(2)</p>
-                            </li>
-                            <li>
-                                <p>Music Concert (30% Off)</p>
-                            </li>
-                            <li>
                                 <p>Restaurant (Snacks)</p>
-                            </li>
-                            <li>
-                                <p>Face Make(No)</p>
                             </li>
                         </ul>
                         <hr />
@@ -412,16 +289,7 @@ require "header.php"
                         <h5 class="text-decoration-underline mb-4">Economic</h5>
                         <ul class="list-unstyled">
                             <li>
-                                <p>Flight Ticket(2)</p>
-                            </li>
-                            <li>
-                                <p>Music Concert (30% Off)</p>
-                            </li>
-                            <li>
                                 <p>Restaurant (Snacks)</p>
-                            </li>
-                            <li>
-                                <p>Face Make(No)</p>
                             </li>
                         </ul>
                         <hr />
@@ -434,16 +302,7 @@ require "header.php"
                         <h5 class="text-decoration-underline mb-4">Economic</h5>
                         <ul class="list-unstyled">
                             <li>
-                                <p>Flight Ticket(2)</p>
-                            </li>
-                            <li>
-                                <p>Music Concert (30% Off)</p>
-                            </li>
-                            <li>
                                 <p>Restaurant (Snacks)</p>
-                            </li>
-                            <li>
-                                <p>Face Make(No)</p>
                             </li>
                         </ul>
                         <hr />
@@ -456,16 +315,7 @@ require "header.php"
                         <h5 class="text-decoration-underline mb-4">Economic</h5>
                         <ul class="list-unstyled">
                             <li>
-                                <p>Flight Ticket(2)</p>
-                            </li>
-                            <li>
-                                <p>Music Concert (30% Off)</p>
-                            </li>
-                            <li>
                                 <p>Restaurant (Snacks)</p>
-                            </li>
-                            <li>
-                                <p>Face Make(No)</p>
                             </li>
                         </ul>
                         <hr />
@@ -490,7 +340,7 @@ require "header.php"
             <div class="row">
                 <div class="col-md-6 mb-4">
                     <div class="card p-0 border-0 rounded-0">
-                        <img decoding="async" src="images/blog/blog1.webp" alt="">
+                        <img decoding="async" src="" alt="">
                         <div class="blog-content bg-white p-4">
                             <h5 class="text-decoration-underline mb-4">Relax Zone</h5>
                             <h6>By Admin - February 18, 2018</h6>
@@ -503,7 +353,7 @@ require "header.php"
                 </div>
                 <div class="col-md-6 mb-4">
                     <div class="card p-0 border-0 rounded-0">
-                        <img decoding="async" src="images/blog/blog2.webp" alt="">
+                        <img decoding="async" src="" alt="">
                         <div class="blog-content bg-white p-4">
                             <h5 class="text-decoration-underline mb-4">Relax Zone</h5>
                             <h6>By Admin - February 18, 2018</h6>
@@ -513,18 +363,6 @@ require "header.php"
 
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-        <div class="our-partner-slider mt-5">
-            <div class="container swiper our-partner">
-                <div class=" swiper-wrapper">
-                    <div class="swiper-slide"><img decoding="async" src="images/partners/brand1.webp"></div>
-                    <div class="swiper-slide"><img decoding="async" src="images/partners/brand2.webp"></div>
-                    <div class="swiper-slide"><img decoding="async" src="images/partners/brand3.webp"></div>
-                    <div class="swiper-slide"><img decoding="async" src="images/partners/brand4.webp"></div>
-                    <div class="swiper-slide"><img decoding="async" src="images/partners/brand5.webp"></div>
-                    <div class="swiper-slide"><img decoding="async" src="images/partners/brand6.webp"></div>
                 </div>
             </div>
         </div>

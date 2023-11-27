@@ -63,7 +63,7 @@
             </div>
         </nav>
 
-            <!-- bouton d'inscription -->
+            <!-- sign in button -->
         <div class="modal fade" id="inscriptionModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -104,7 +104,7 @@
             </div>
         </div>
 
-        <!-- bouton d'inscription fin -->
+        <!-- sign in button end -->
 
         <!-- Login button -->
 
