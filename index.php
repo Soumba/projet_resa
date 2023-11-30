@@ -1,6 +1,9 @@
 <?php
 
-require "header.php"
+
+require "./handf/header.php";
+
+require "./connect/_connection.php";
 
 ?>
 
@@ -371,7 +374,7 @@ require "header.php"
 
 <?php
 
-require "footer.php";
+require "./handf/footer.php";
 
 ?>
 
